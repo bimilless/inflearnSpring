@@ -1,0 +1,8 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(Œ²žµ8Ô«’¢º1
+L	java:S106!"+Replace this use of System.out by a logger.(¸·ï®úÿÿÿÿ8Ù«’¢º1
+L	java:S106""+Replace this use of System.out by a logger.(ß¯ëÂýÿÿÿÿ8Ú«’¢º1
+b
+java:S1128"@Remove this unused import 'hello.core.member.MemberServiceImpl'.( Ïüþÿÿÿÿ8’Â“¢º1
+[
+java:S1128	">Remove this unused import 'hello.core.order.OrderServiceImpl'.(É‚€¥8’Â“¢º1
