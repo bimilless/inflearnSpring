@@ -67,3 +67,5 @@ Bcore/src/test/java/hello/core/discount/RateDiscountPolicyTest.java,2\9\29cc476
 ,core/src/main/java/hello/core/AppConfig.java,8\8\8831513b15d2d4053557948cc1c95659a8c0ba54
 9
 	Readme.md,0\c\0c1945d7443c2e154bd3e421c0d438bd4086d8c3
+v
+Fcore/src/test/java/hello/core/beanfind/ApplicationContextInfoTest.java,f\4\f4c3d4b8d60fa57e4dc8dc9741f5b87cb9c72d3b
