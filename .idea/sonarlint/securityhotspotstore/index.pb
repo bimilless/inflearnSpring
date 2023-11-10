@@ -71,3 +71,5 @@ v
 Fcore/src/test/java/hello/core/beanfind/ApplicationContextInfoTest.java,f\4\f4c3d4b8d60fa57e4dc8dc9741f5b87cb9c72d3b
 {
 Kcore/src/test/java/hello/core/beanfind/ApplicationContextBasicFindTest.java,a\6\a6b62fdb2c793d2e7e007bd8ffc7c95e72572f53
+~
+Ncore/src/test/java/hello/core/beanfind/ApplicationContextSameBeanFindTest.java,f\4\f45d95dfb703bb0c0d9d70202391ebb8590d4943
